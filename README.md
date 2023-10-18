@@ -18,9 +18,12 @@
 
 <div style="display:flex">
   
-- I am an aspiring Frontend Developer
+- I am a Frontend Developer
 
-- I am currently a B-Tech CSE Final year student
+-Open source enthusiast
+- Top12 contributer in ISOCSE 2023
+ 
+- I am currently pursuing B-tech
 
 - I am currently learning Next-js and other  tools.
 
@@ -29,7 +32,7 @@
 
 - I read books in free time
 
-- Open source enthusiast
+
 
 </div>
 
