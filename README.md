@@ -1,8 +1,7 @@
 
 
 [![An image of @qazisafiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qazisafiya)](https://holopin.io/@qazisafiya)
-
-![Screenshot 2023-10-18 093113](https://github.com/QaziSafiya/QaziSafiya/assets/143307549/e57d1c88-a139-451d-812c-bbdf402a6821)
+<img src="https://github.com/QaziSafiya/QaziSafiya/assets/143307549/e57d1c88-a139-451d-812c-bbdf402a6821"></img>
 
 
 <div>
