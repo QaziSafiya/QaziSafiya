@@ -53,8 +53,8 @@ https://tree-nation.com/seeds/view/5278117
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=siddiquisafiya69@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=siddiquisafiya69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
+   <a href="https://hashnode.com/@Safiya">
+    <img src="https://img.shields.io/badge/Hashnode-D14836?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
     </a>
 </div>
 
