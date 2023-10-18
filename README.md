@@ -21,7 +21,7 @@
 - I am a Frontend Developer
 
 -Open source enthusiast
-- Top12 contributer in ISOCSE 2023
+- Top12 contributer in Innerve SOC '23
  
 - I am currently pursuing B-tech
 
@@ -40,3 +40,21 @@
 Tree Notion drop one seed in this
 
 https://tree-nation.com/seeds/view/5278117
+
+
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/safiya-siddiqui-566009214/overlay/contact-info/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Safiya85395?t=IcmO6CIUFb-vjcIDL3P5IQ&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=siddiquisafiya69@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
