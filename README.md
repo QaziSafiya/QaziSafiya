@@ -1,5 +1,4 @@
 
-<h1>HELLO I AM SAFIYA SIDDIQUI</h1>
 
 [![An image of @qazisafiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qazisafiya)](https://holopin.io/@qazisafiya)
 
@@ -7,6 +6,9 @@
 
 
 <div>
+
+<img src="https://media.giphy.com/media/AOXNxxIJuBQdNTBblp/giphy.gif"></img>  <h1>HELLO I AM SAFIYA SIDDIQUI</h1>
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Safiya Siddiqui,+Welcome+to+My+Profile!+;I+am+a+Frontend+Developer+;Self+learner" alt="Typing SVG" /></a>
 </div>
 
