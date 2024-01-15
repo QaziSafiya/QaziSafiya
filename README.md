@@ -19,7 +19,7 @@
 <div style="display:flex">
   
 - I am a Frontend Developer
--APLHA MLSA in microsoft
+-Beta MLSA in microsoft
 -Open source enthusiast
 - Top12 contributer in Innerve SOC '23
  
