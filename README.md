@@ -41,7 +41,7 @@ Tree Notion drop one seed in this
 
 https://tree-nation.com/seeds/view/5278117
 
-
+[![QaziSafiya's GitHub | Stats](https://stats.quira.sh/QaziSafiya/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=QaziSafiya)
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/safiya-siddiqui-566009214/overlay/contact-info/">
