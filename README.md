@@ -1,7 +1,6 @@
 
 <div style="display:flex">
-
-<img src="https://media.giphy.com/media/AOXNxxIJuBQdNTBblp/giphy.gif"  width="40" flex></img> <h1>Hello</h1>
+ <h1>Hello</h1>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Safiya Siddiqui,+Welcome+to+My+Profile!+;I+am+a+Frontend+Developer+;Self+learner ;Open-source+contributer" alt="Typing SVG" /></a>
 </div>
@@ -28,12 +27,6 @@
 
 </div>
 
-
-Tree Notion drop one seed in this
-
-https://tree-nation.com/seeds/view/5278117
-
-[![QaziSafiya's GitHub | Stats](https://stats.quira.sh/QaziSafiya/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=QaziSafiya)
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/safiya-siddiqui-566009214/overlay/contact-info/">
