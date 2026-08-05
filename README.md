@@ -18,7 +18,7 @@
 
 <div style="display:flex">
   
-- I am a Frontend Developer
+-I am a Frontend Developer
   
 -Beta MLSA in microsoft
 
