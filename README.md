@@ -18,22 +18,10 @@
 
 <div style="display:flex">
   
-- I am a Frontend Developer
+- I am a Frontend Developer 
 -Beta MLSA in microsoft
 -Open source enthusiast
-- Top12 contributer in Innerve SOC '23
- 
-- I am currently pursuing B-tech
-
-- I am currently learning Next-js and other  tools.
-
-- I post my tech journey on **Twitter**
--  I post my tech journey on **Linkedin**
-
-- I read books in free time
-
-
-
+-Top12 contributer in Innerve SOC '23
 </div>
 
 
