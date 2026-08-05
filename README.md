@@ -18,10 +18,14 @@
 
 <div style="display:flex">
   
-- I am a Frontend Developer 
+- I am a Frontend Developer
+  
 -Beta MLSA in microsoft
+
 -Open source enthusiast
+
 -Top12 contributer in Innerve SOC '23
+
 </div>
 
 
